@@ -8,7 +8,7 @@ import java.sql.Statement;
 
 /**
  * SQL sublanguage: DDL (Data Definition Language)
- *
+ * DONE
  * In the last activity we learned how to create tables in SQL. In this activity we are going to learn how to drop a table from our database.
  *
  * The syntax for dropping a table is as follows:
@@ -18,6 +18,7 @@ import java.sql.Statement;
  * */
 public class DropATable {
 
+    //test
     /**
      *      Task: Drop the table "song"
      *      song Table Diagram:
